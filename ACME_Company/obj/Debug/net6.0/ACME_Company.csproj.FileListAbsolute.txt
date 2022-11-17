@@ -1,0 +1,15 @@
+C:\Users\Jasz_\Desktop\ACME_Company\ACME_Company\bin\Debug\net6.0\ACME_Company.exe
+C:\Users\Jasz_\Desktop\ACME_Company\ACME_Company\bin\Debug\net6.0\ACME_Company.deps.json
+C:\Users\Jasz_\Desktop\ACME_Company\ACME_Company\bin\Debug\net6.0\ACME_Company.runtimeconfig.json
+C:\Users\Jasz_\Desktop\ACME_Company\ACME_Company\bin\Debug\net6.0\ACME_Company.dll
+C:\Users\Jasz_\Desktop\ACME_Company\ACME_Company\bin\Debug\net6.0\ACME_Company.pdb
+C:\Users\Jasz_\Desktop\ACME_Company\ACME_Company\obj\Debug\net6.0\ACME_Company.csproj.AssemblyReference.cache
+C:\Users\Jasz_\Desktop\ACME_Company\ACME_Company\obj\Debug\net6.0\ACME_Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasz_\Desktop\ACME_Company\ACME_Company\obj\Debug\net6.0\ACME_Company.AssemblyInfoInputs.cache
+C:\Users\Jasz_\Desktop\ACME_Company\ACME_Company\obj\Debug\net6.0\ACME_Company.AssemblyInfo.cs
+C:\Users\Jasz_\Desktop\ACME_Company\ACME_Company\obj\Debug\net6.0\ACME_Company.csproj.CoreCompileInputs.cache
+C:\Users\Jasz_\Desktop\ACME_Company\ACME_Company\obj\Debug\net6.0\ACME_Company.dll
+C:\Users\Jasz_\Desktop\ACME_Company\ACME_Company\obj\Debug\net6.0\refint\ACME_Company.dll
+C:\Users\Jasz_\Desktop\ACME_Company\ACME_Company\obj\Debug\net6.0\ACME_Company.pdb
+C:\Users\Jasz_\Desktop\ACME_Company\ACME_Company\obj\Debug\net6.0\ACME_Company.genruntimeconfig.cache
+C:\Users\Jasz_\Desktop\ACME_Company\ACME_Company\obj\Debug\net6.0\ref\ACME_Company.dll
