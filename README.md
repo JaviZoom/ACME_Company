@@ -37,6 +37,9 @@ With this information the solution was created and published in the console.
 Instructions how to run the program locally            
 *The program is written in C#, so it can run using Visual Studio or Visual Studio Code.
 *There is no problem with the reading and writing of the document .txt, because it is inside the bin folder of the solution.
+*IF YOU WANT TO ADD MORE DATA SET AND EDIT THE DOCUMENT "EXAMPLES.txt", YOU CAN FIND THE DOCUMENT IN THE BIN FOLDER
+..\ACME_Company\ACME_Company\bin\Examples.txt
+
 (in case of adding new datasets, consider the correct format of the datasets which is:)
 INPUT:
 RENE=MO10:00-12:00,TU10:00-12:00,TH01:00-03:00,SA14:00-18:00,SU20:00- 21:00
